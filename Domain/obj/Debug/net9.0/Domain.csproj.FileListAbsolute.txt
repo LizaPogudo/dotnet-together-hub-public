@@ -11,3 +11,16 @@ D:\Stepik\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.dll
 D:\Stepik\dotnet-together-hub-public\Domain\obj\Debug\net9.0\refint\Domain.dll
 D:\Stepik\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.pdb
 D:\Stepik\dotnet-together-hub-public\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\LizaPogudo\dotnet-together-hub-public\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\LizaPogudo\dotnet-together-hub-public\Domain\bin\Debug\net9.0\Domain.dll
+D:\LizaPogudo\dotnet-together-hub-public\Domain\bin\Debug\net9.0\Domain.pdb
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.dll
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\Domain.pdb
+D:\LizaPogudo\dotnet-together-hub-public\Domain\obj\Debug\net9.0\ref\Domain.dll
