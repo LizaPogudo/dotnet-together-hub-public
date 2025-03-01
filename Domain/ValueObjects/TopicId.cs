@@ -1,6 +1,4 @@
-﻿using Domain.Exceptions;
-
-namespace Domain.ValueObjects
+﻿namespace Domain.ValueObjects
 {
     public record TopicId
     {
