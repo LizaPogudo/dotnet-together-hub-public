@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Api/obj
+/Application/obj/Release/net9.0
+/Infrastructure/obj
